@@ -1,2 +1,2 @@
-# weather-app
-Weather app using vanilla js and OpenWeatherApp API
+# Simple Weather App
+Weather app using vanilla JavaScript and OpenWeatherMap API
